@@ -110,10 +110,10 @@ I'm a passionate developer from Sri Lanka who loves turning ideas into reality w
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-if-any">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="#>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
