@@ -13,15 +13,19 @@
   <img src="https://komarev.com/ghpvc/?username=Sandun99&label=Profile%20Views&color=ff6b6b&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Sandun99?label=Follow&style=social" alt="GitHub Followers" />
 </p>
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
+</p>
 
 <br>
 
 ## 🚀 About Me
-I'm a passionate developer from Sri Lanka who loves turning ideas into reality with clean code. Currently focused on **Laravel**, **JavaScript**, and modern web technologies.
 
-- 🔭 Working on few full-stack projects  
-- 🌱 Learning advanced Laravel patterns
+  I'm a passionate developer from Sri Lanka who loves turning ideas into reality with clean code. Currently focused on **Laravel**, **JavaScript**, and modern web technologies.
 
+  - 🔭 Working on few full-stack projects  
+  - 🌱 Learning advanced Laravel patterns
+    
 <br>
 
 ## 🚀 Technologies & Tools
