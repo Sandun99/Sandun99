@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Laravel Enthusiast | Building things with code & coffee ☕</b>
+  <b>Full-Stack Developer | Laravel Enthusiast | Building things with code </b>
 </p>
 
 <p align="center">
