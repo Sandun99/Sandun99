@@ -19,7 +19,7 @@
 ## 🚀 About Me
 I'm a passionate developer from Sri Lanka who loves turning ideas into reality with clean code. Currently focused on **Laravel**, **JavaScript**, and modern web technologies.
 
-- 🔭 Working on exciting full-stack projects  
+- 🔭 Working on few full-stack projects  
 - 🌱 Learning advanced Laravel patterns
 
 <br>
