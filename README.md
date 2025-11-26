@@ -88,12 +88,8 @@ I'm a passionate developer from Sri Lanka who loves turning ideas into reality w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sandun99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun99&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun99&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun99&theme=radical&hide_border=true" />
 </p>
 
 <br>
